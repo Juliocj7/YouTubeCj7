@@ -24,11 +24,12 @@
 
 
 ## Menú Principal :
-![Screenshot_20210817-223354_Termux](https://user-images.githubusercontent.com/81049859/129828363-a6693872-4743-45d3-b559-759195ddbd24.png)
+![Screenshot_20220511-091504_Termux](https://user-images.githubusercontent.com/81049859/167864772-8552cb63-3a7c-484c-a6c3-3a2bc7fc0764.png)
 
 
-## Menú Secundario : 
-![Screenshot_20210817-224240_Termux](https://user-images.githubusercontent.com/81049859/129828380-3aa305d7-f84c-406f-8c8b-d7be4f438b0a.png)
+
+
+
 
 
 * NOTA: Para la lista .txt crea un archivo y pega dentro todos los enlaces.
