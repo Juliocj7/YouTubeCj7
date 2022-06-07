@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -22,10 +21,8 @@
 
 </details>
 
-
 ## Menú Principal :
 ![Screenshot_20220522-073445_Termux](https://user-images.githubusercontent.com/81049859/169695531-5df2ac3d-6332-467a-b2db-576d416f4ae8.png)
-
 
 * NOTA: Para la lista .txt crea un archivo y pega dentro todos los enlaces.
 
@@ -44,8 +41,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* ` apt update && apt upgrade -y `
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * ` git clone https://github.com/Juliocj7/YouTubeCj7 `
 
 * ` cd YouTubeCj7 `
