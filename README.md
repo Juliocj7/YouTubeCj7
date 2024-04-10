@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20230517_195907_Termux](https://github.com/Juliocj7/YouTubeCj7/assets/81049859/b15544f0-7844-486a-bb35-84bc4529a3e9)
+![1000328341](https://github.com/Juliocj7/YouTubeCj7/assets/81049859/6ae2610e-6247-4f13-b6ef-ad0a304537f5)
 
 * NOTA: Para la lista .txt crea un archivo y pega dentro todos los enlaces.
 
