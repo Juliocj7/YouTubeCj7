@@ -45,11 +45,11 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328341](https://github.com/Juliocj7/YouTubeCj7/assets/81049859/6ae2610e-6247-4f13-b6ef-ad0a304537f5)
 
-> [!NOTE]
+> [!TIP]
 > > Para la lista .txt crear un archivo y pegar dentro todos los enlaces.
 
 ## YouTubeCj7 :
-* **Descarga videos y música** ilimitada en la mejor calidad.
+* Descarga **videos** y **música** ilimitada en la mejor calidad.
 * Compatible con Facebook, YouTube y más de **700 páginas**.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
