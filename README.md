@@ -45,12 +45,12 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328341](https://github.com/Juliocj7/YouTubeCj7/assets/81049859/6ae2610e-6247-4f13-b6ef-ad0a304537f5)
 
-* NOTA: Para la lista .txt crea un archivo y pega dentro todos los enlaces.
+> [!NOTE]
+> > Para la lista .txt crear un archivo y pegar dentro todos los enlaces.
 
 ## YouTubeCj7 :
-* **Descarga videos** ilimitados en la mejor calidad.
-* **Descarga música** ilimitada en la mejor calidad.
-* Compatible con **Facebook, YouTube** y más de **700 páginas**.
+* **Descarga videos y música** ilimitada en la mejor calidad.
+* Compatible con Facebook, YouTube y más de **700 páginas**.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -58,17 +58,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/YouTubeCj7 `
-
-* ` cd YouTubeCj7 `
-
-* ` chmod +x * `
-
-* ` ./YouTubeCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/YouTubeCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd YouTubeCj7 && chmod +x * && ./YouTubeCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
