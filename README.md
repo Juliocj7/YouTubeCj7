@@ -42,7 +42,7 @@
 </div>
 
 ## Menú Principal :
-![1000328341](https://github.com/Juliocj7/YouTubeCj7/assets/81049859/6ae2610e-6247-4f13-b6ef-ad0a304537f5)
+[![1000328341](https://github.com/user-attachments/assets/e7c8834f-1f5b-408d-80c6-70cf092f344e)](#---)
 
 > [!TIP]
 > > 𝙿𝚊𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊.𝚝𝚡𝚝 𝚌𝚛𝚎𝚊𝚛 𝚞𝚗 𝚊𝚛𝚌𝚑𝚒𝚟𝚘 𝚢 𝚙𝚎𝚐𝚊𝚛 𝚍𝚎𝚗𝚝𝚛𝚘 𝚝𝚘𝚍𝚘𝚜 𝚕𝚘𝚜 𝚎𝚗𝚕𝚊𝚌𝚎𝚜
